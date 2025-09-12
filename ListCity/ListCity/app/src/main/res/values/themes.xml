@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ListCity" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/my_app_bar_green</item>
+        <item name="colorOnPrimary">@color/my_app_bar_text_color</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <item name="toolbarStyle">@style/Widget.App.Toolbar</item>
+    </style>
+    <style name="Theme.ListCity" parent="Base.Theme.ListCity" />
+</resources>
