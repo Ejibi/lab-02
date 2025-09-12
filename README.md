@@ -14,5 +14,5 @@ Gemini suggestions inbuilt into android studi0
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| Emmanuel Jibi    | Gemini |
+|              |           |
 | `<Add more>` | `<CCID>`  |
