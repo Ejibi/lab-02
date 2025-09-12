@@ -8,10 +8,11 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+Gemini suggestions inbuilt into android studi0
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| Emmanuel Jibi    | Gemini |
 | `<Add more>` | `<CCID>`  |
