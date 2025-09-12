@@ -8,7 +8,8 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-Gemini suggestions inbuilt into android studi0
+
+Google Gemini (latest ver) code suggestions inbuilt into android studio. date: Sep 11.
 
 ## Verbal Collaboration
 
